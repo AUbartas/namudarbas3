@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0%;
+}
+body {
+    margin: 10px;
+}
+table {
+    border-collapse: collapse;
+    margin: 30px auto;
+text-align: left;
+text-transform:capitalize;
+color: black;
+font-family:Roboto Mono;
+}
+
+td {
+    width: 150;
+    padding: 7px;
+border: 2.5px solid black;}
+th {
+    width: 150;
+    padding: 7px;
+    border: 2.5px solid black;
+    font-weight: 700;
+    
+}
+.orange {
+    background: orange;
+    color: white;
+}
+.blue {
+    background: blue;
+    color: white;
+}
+.green {
+    background: green;
+    color: white;
+}
